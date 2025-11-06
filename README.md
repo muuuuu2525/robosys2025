@@ -1,5 +1,10 @@
 ![test](https://github.com/muuuuu2525/robosys2025/actions/workflows/test.yml/badge.svg)
 
+これは、ロボットシステム学の課題用リポジトリです。
+
+## 概要
+
+## 使い方
 
 ## 必要なソフトウェア
 - Python
